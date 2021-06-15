@@ -4,11 +4,26 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* HEADINGS */
+
 .main-title {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
+
+.secondary-title {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.secondary-sub-title {
+    font-size: 21px;
+    color: grey;
+}
+
+/* LINKS */
 
 .link-download {
     font-size: 16px;
